@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animes>
+    <anime>
+        <nome>Dragon Ball</nome>
+        <inicial>1</inicial>
+        <final>10</final>
+        <incremento>1</incremento>
+        <cor>#9DED8D</cor>
+    </anime>
+    <anime>
+        <nome>Bleach</nome>
+        <inicial>12</inicial>
+        <final>17</final>
+        <incremento>1</incremento>
+        <cor>#B0E0E6</cor>
+    </anime>
+    <anime>
+        <nome>Chainsaw Man</nome>
+        <inicial>20</inicial>
+        <final>30</final>
+        <incremento>1</incremento>
+        <cor>#D0FA58</cor>
+    </anime>
+    <anime>
+        <nome>Naruto</nome>
+        <inicial>32</inicial>
+        <final>37</final>
+        <incremento>1</incremento>
+        <cor>#F4FA58</cor>
+    </anime>
+    <anime>
+        <nome>One Piece</nome>
+        <inicial>43</inicial>
+        <final>50</final>
+        <incremento>1</incremento>
+        <cor>#F4A261</cor>
+    </anime>
+    <anime>
+        <nome>Golden Time</nome>
+        <inicial>237</inicial>
+        <final>246</final>
+        <incremento>1</incremento>
+        <cor>#53ED5D</cor>
+    </anime>    
+    <anime>
+        <nome>Cyber Punk Edgerunner</nome>
+        <inicial>191</inicial>
+        <final>209</final>
+        <incremento>1</incremento>
+        <cor>#E76F51</cor>
+    </anime>
+    <anime>
+        <nome>Demon Slayer</nome>
+        <inicial>117</inicial>
+        <final>127</final>
+        <incremento>1</incremento>
+        <cor>#FF0040</cor>
+    </anime>
+    <anime>
+        <nome>One Puch Man</nome>
+        <inicial>154</inicial>
+        <final>164</final>
+        <incremento>1</incremento>
+        <cor>#C6CE61</cor>
+    </anime>
+    <anime>
+        <nome>Tokyo Ghoul</nome>
+        <inicial>79</inicial>
+        <final>88</final>
+        <incremento>1</incremento>
+        <cor>#2E64FE</cor>
+    </anime>
+</animes>
